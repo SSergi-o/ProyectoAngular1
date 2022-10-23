@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  font-family: 'Times New Roman';
+}
+.title-container{
+  margin-bottom:120px;
+  margin: 0;
+  height: 196px;
+  width: 100%;
+  background-color: #282849;
+
+
+}
+.imgCont,img{
+  width: 124px;
+  height: 124px;
+
+}
+img{
+  padding-top: 24px;
+  align-self: center;
+}
+h1{
+  text-align: center;
+  margin-right: 00px;
+  margin: 0;
+  font-size: 60px;
+  margin-top: -55px;
+  color: whitesmoke;
+}
