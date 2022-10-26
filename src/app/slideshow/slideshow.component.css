@@ -8,8 +8,8 @@ p{
   color:rgb(19, 18, 18);
 }
 .img1{
-  box-shadow: 5px 7px 5px 7px #8888882d;
-  background-color: #ebe4cf8c;
+  box-shadow: 4px 6px 4px 6px #88888850;
+
 
   padding-top: 24px;
   border-radius: 12px;
@@ -18,12 +18,11 @@ p{
   height: 400px;
   margin-top: 12px;
   margin-left: 44px;
-  background-color: #ebe4cf8c;
 
 
 }
 .img2{
-  box-shadow: 5px 7px 5px 7px #8888882d;
+  box-shadow: 4px 6px 4px 6px #88888850;
 
   padding-top: 24px;
   border-radius: 12px;
@@ -31,34 +30,32 @@ p{
   text-align: center;
   width: 400px;
   height: 400px;
-  margin-top: -424px;
+  margin-top: -400px;
   margin-left: 480px;
-  background-color: #ebe4cf8c;
+
 
 
 }
 .img3{
-  box-shadow: 5px 7px 5px 7px #8888882d;
+  box-shadow: 4px 6px 4px 6px #88888850;;
 
   padding-top: 24px;
   border-radius: 12px;
   text-align: center;
   width: 400px;
   height: 400px;
-  margin-top: -424px;
+  margin-top: -400px;
   margin-left: 920px;
-  background-color: #ebe4cf8c;
 
 }
 .img4{
-  box-shadow: 5px 7px 5px 7px #8888882d;
-  background-color: #ebe4cf8c;
+  box-shadow: 4px 6px 4px 6px #88888850;;
   padding-top: 24px;
   border-radius: 12px;
   text-align: center;
   width: 400px;
   height: 400px;
-  margin-top: -424px;
+  margin-top: -400px;
   margin-left: 1360px;
 
 
@@ -79,7 +76,7 @@ img:hover{
 
 }
 .img1:hover,.img2:hover,.img3:hover,.img4:hover{
-  box-shadow: 10px 12px 10px 12px #8888882d;
+  box-shadow: 10px 12px 10px 12px #88888850;;
 
 
 
