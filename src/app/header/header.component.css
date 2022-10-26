@@ -9,7 +9,7 @@
 
   height: 110px;
 
-  background-color: #16373b;
+  background-color: #100F0F;
   color: rgb(255, 255, 255);
   margin-top: -12px;
   padding-top: 24px;
@@ -24,7 +24,7 @@ h1{
 }
 .texto{
   padding-bottom:2px;
-  background-color: #16373b;
+  background-color: #100F0F;
   letter-spacing: 6px;
 }
 img{
